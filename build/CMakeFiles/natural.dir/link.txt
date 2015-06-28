@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/natural.dir/natural.cpp.o  -o natural -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/honeyComb.dir/honeyComb.cpp.o  -o honeyComb -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

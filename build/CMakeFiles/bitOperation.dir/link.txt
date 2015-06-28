@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/bitOperation.dir/bitOperation.cpp.o  -o bitOperation -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

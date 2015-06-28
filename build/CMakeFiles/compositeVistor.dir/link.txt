@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/compositeVistor.dir/compositeVistor.cpp.o  -o compositeVistor -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

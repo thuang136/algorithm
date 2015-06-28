@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/callPlugin.cpp
+people.h
+/home/huangtao/linux/sbox/opengl-test/people.h
+dlfcn.h
+-
+
+/home/huangtao/linux/sbox/opengl-test/people.h
+string
+-
+iostream
+-
+

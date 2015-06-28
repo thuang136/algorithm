@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/cairo-generate.cpp
+cairo.h
+-
+cstdio
+-
+
+/usr/include/cairo/cairo-deprecated.h
+
+/usr/include/cairo/cairo-features.h
+
+/usr/include/cairo/cairo-version.h
+
+/usr/include/cairo/cairo.h
+cairo-version.h
+/usr/include/cairo/cairo-version.h
+cairo-features.h
+/usr/include/cairo/cairo-features.h
+cairo-deprecated.h
+/usr/include/cairo/cairo-deprecated.h
+

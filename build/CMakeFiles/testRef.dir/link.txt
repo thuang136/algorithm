@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/testRef.dir/testRef.cpp.o  -o testRef -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

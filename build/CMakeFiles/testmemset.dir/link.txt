@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/testmemset.dir/testmemset.cpp.o  -o testmemset -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

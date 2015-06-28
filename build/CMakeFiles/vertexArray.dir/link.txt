@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/vertexArray.dir/vertexArray.cpp.o  -o vertexArray -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/listener.h
+
+/home/huangtao/linux/sbox/opengl-test/notifier.cpp
+listener.h
+/home/huangtao/linux/sbox/opengl-test/listener.h
+iostream
+-
+list
+-
+

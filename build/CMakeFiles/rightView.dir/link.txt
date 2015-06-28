@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/rightView.dir/rightView.cpp.o  -o rightView -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/designMultipleInherit.dir/designMultipleInherit.cpp.o  -o designMultipleInherit -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

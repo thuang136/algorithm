@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/reverseList.dir/reverseList.cpp.o  -o reverseList -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

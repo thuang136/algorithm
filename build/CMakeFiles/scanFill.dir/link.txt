@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/scanFill.dir/scanFill.cpp.o  -o scanFill -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

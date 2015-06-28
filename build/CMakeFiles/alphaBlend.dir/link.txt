@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/alphaBlend.dir/alphaBlend.cpp.o  -o alphaBlend -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

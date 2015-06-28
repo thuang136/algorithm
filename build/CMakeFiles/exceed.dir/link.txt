@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/exceed.dir/exceed.cpp.o  -o exceed -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

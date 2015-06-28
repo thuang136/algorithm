@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/adaptor.dir/adaptor.cpp.o  -o adaptor -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/alarmThread.cpp
+pthread.h
+-
+cstdio
+-
+malloc.h
+-
+cstring
+-
+unistd.h
+-
+

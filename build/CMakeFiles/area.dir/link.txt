@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/area.dir/area.cpp.o  -o area -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

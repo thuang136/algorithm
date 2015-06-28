@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/abstractFactory.dir/abstractFactory.cpp.o  -o abstractFactory -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

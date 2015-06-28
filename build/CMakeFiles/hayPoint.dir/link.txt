@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/hayPoint.dir/hayPoint.cpp.o  -o hayPoint -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

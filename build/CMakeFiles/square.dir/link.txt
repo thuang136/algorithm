@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/square.dir/square.cpp.o  -o square -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

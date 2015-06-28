@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/testFormat.dir/testFormat.cpp.o  -o testFormat -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

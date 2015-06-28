@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/esUtil.dir/esUtil.c.o  -o esUtil -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lGLESv2 -lEGL -lm -lX11 

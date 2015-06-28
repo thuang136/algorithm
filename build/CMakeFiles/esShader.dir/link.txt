@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/esShader.dir/esShader.c.o  -o esShader -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lGLESv2 -lEGL -lm -lX11 

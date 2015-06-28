@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/luckyList.dir/luckyList.cpp.o  -o luckyList -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

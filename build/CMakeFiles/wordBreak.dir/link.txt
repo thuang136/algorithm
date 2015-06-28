@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/wordBreak.dir/wordBreak.cpp.o  -o wordBreak -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

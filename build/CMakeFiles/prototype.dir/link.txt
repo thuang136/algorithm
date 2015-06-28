@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/prototype.dir/prototype.cpp.o  -o prototype -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

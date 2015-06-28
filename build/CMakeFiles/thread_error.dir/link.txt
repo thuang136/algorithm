@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/thread_error.dir/thread_error.cpp.o  -o thread_error -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

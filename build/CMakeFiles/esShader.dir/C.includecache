@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/esShader.c
+esUtil.h
+/home/huangtao/linux/sbox/opengl-test/esUtil.h
+stdlib.h
+-
+
+/home/huangtao/linux/sbox/opengl-test/esUtil.h
+GLES2/gl2.h
+-
+EGL/egl.h
+-
+

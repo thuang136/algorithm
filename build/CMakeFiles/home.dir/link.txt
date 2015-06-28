@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/home.dir/home.cpp.o  -o home -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

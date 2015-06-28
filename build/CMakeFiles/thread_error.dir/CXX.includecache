@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/thread_error.cpp
+sys/types.h
+-
+sys/wait.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+signal.h
+-
+string.h
+-
+

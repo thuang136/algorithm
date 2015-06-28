@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/signal.dir/signal.cpp.o  -o signal -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/factoryMethod.dir/factoryMethod.cpp.o  -o factoryMethod -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

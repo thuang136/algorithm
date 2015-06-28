@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/violentMatch.dir/violentMatch.cpp.o  -o violentMatch -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

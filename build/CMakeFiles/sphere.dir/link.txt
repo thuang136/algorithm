@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/sphere.dir/sphere.cpp.o  -o sphere -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

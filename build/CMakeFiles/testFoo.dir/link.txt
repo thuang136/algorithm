@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/testFoo.dir/testFoo.cpp.o  -o testFoo -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

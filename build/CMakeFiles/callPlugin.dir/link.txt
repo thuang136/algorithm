@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/callPlugin.dir/callPlugin.cpp.o  -o callPlugin -rdynamic liblibstudent.so -ldl -Wl,-rpath,/home/huangtao/linux/sbox/opengl-test/build 

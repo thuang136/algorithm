@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/esTransform.dir/esTransform.c.o  -o esTransform -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lGLESv2 -lEGL -lm -lX11 

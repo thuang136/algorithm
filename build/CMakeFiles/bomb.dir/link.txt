@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/bomb.dir/bomb.cpp.o  -o bomb -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

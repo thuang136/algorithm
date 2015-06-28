@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/cast.dir/cast.cpp.o  -o cast -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

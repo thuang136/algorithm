@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/builder.dir/builder.cpp.o  -o builder -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

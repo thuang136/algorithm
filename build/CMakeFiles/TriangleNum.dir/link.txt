@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/TriangleNum.dir/TriangleNum.cpp.o  -o TriangleNum -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

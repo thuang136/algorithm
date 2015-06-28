@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/lifeCycle.cpp
+pthread.h
+-
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+

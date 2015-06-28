@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/stair.cpp
+cstdio
+-
+iostream
+-
+iostream
+-
+cstdio
+-
+string.h
+-
+cstdio
+-
+iostream
+-
+

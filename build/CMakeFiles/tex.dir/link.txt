@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/tex.dir/tex.cpp.o  -o tex -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

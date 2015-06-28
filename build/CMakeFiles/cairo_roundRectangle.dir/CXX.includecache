@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangtao/linux/sbox/opengl-test/cairo_roundRectangle.cpp
+cairo.h
+-
+cairo-xlib.h
+-
+X11/Xlib.h
+-
+
+/usr/include/cairo/cairo-deprecated.h
+
+/usr/include/cairo/cairo-features.h
+
+/usr/include/cairo/cairo-version.h
+
+/usr/include/cairo/cairo-xlib.h
+cairo.h
+/usr/include/cairo/cairo.h
+X11/Xlib.h
+-
+
+/usr/include/cairo/cairo.h
+cairo-version.h
+/usr/include/cairo/cairo-version.h
+cairo-features.h
+/usr/include/cairo/cairo-features.h
+cairo-deprecated.h
+/usr/include/cairo/cairo-deprecated.h
+

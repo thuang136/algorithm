@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/decorator.dir/decorator.cpp.o  -o decorator -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/cairo_pattern_transform.dir/cairo_pattern_transform.cpp.o  -o cairo_pattern_transform -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

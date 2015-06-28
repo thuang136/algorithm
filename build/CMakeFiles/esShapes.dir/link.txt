@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/esShapes.dir/esShapes.c.o  -o esShapes -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lGLESv2 -lEGL -lm -lX11 

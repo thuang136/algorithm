@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/midCircle.dir/midCircle.cpp.o  -o midCircle -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/3DTransform.dir/3DTransform.cpp.o  -o 3DTransform -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

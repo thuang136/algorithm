@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/lifeCycle.dir/lifeCycle.cpp.o  -o lifeCycle -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

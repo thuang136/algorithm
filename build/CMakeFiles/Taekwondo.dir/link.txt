@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/Taekwondo.dir/Taekwondo.cpp.o  -o Taekwondo -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

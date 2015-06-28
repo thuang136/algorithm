@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibhello.a  CMakeFiles/libhello.dir/hello.cpp.o
+/usr/bin/ranlib liblibhello.a

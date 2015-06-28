@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/pixelBuffer.dir/pixelBuffer.cpp.o  -o pixelBuffer -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

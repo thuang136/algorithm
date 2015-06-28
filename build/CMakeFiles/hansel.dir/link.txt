@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/hansel.dir/hansel.cpp.o  -o hansel -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/cryptoGraphics2.dir/cryptoGraphics2.cpp.o  -o cryptoGraphics2 -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

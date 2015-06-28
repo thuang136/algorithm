@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden    CMakeFiles/singleton.dir/singleton.cpp.o  -o singleton -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/cairo-generate.dir/cairo-generate.cpp.o  -o cairo-generate -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

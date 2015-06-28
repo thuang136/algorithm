@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/juice.dir/juice.cpp.o  -o juice -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/mergeSortedArray.dir/mergeSortedArray.cpp.o  -o mergeSortedArray -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

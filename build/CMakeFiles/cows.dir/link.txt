@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/cows.dir/cows.cpp.o  -o cows -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

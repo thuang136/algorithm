@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/marbles.dir/marbles.cpp.o  -o marbles -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

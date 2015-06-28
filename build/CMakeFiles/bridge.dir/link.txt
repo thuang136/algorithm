@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/bridge.dir/bridge.cpp.o  -o bridge -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

@@ -1,0 +1,66 @@
+/*
+
+The most obvious candidates for threaded coding are new applications that accomplish the following:
+
+
+it may be suprising that programming with threads is a good idea even if you know your code will never run on a multiprocessor.
+but it is true.writting with threads forces you to think about and plan for the synchronization requirements of your program.
+you've always had to think about program dependencies,but threads help to move the requirements from comments into executable structure of the program.
+
+
+the threaded programming model isolates independent or loosely coupled functional execution streams(threads) in a clear way that's made explicit
+in the program's source code. if activities are designed as threads, each function must include explicit synchronization to enforce its dependencies.
+because synchronization is executable code, it can't be ignored when dependencies are changed.the presence of synchronization constructs allow anyone
+reading the code to follow temporal dependencies within the code, which can make maintenance substantially easier, especially for large programs with
+a lot of independent code
+
+
+
+a compute-bound thread, which rarely blocks for any external event, cannot effectively share a processor with other compute-bound threads
+an I/O thread might interrupt it once in a while.but the I/O thread would block for another external event and the compute-bound thread would run again
+when you create more compute-bound threads than there are available processors, you may gain better code structuring over a single-threaded implement
+but you will have worse performance. the performance suffers because the multithreaded implementation adds thread synchronization and scheduling overhead
+to the work you want to accomplish
+
+
+
+
+it is difficult to track down a memory corruptor, for example, a function that writes through an uninitialized pointer in a sequential program.
+it is even harder in a threaded program. did some other thread write to memory without using a mutex? did it use wrong mutex? did it count on another thread
+setting up a pointer without explicit synchronization? was it just an old fashioned sequential memory corruptor.
+
+
+
+
+
+various additional tools are provided by some systems to help you. none of these is standard or widely available. tools may check source code for obvious
+violations of locking protocol, given a definition of which variable are shared and how they should be locked, they may record thread interactions while
+the program runs, and allow you to analyze or even replay the interactions to determine what happened. they may record and measure synchronization contention
+and overhead. they may detect complicated deadlock conditions between a set of mutexs
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/recurBezier.dir/recurBezier.cpp.o  -o recurBezier -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 

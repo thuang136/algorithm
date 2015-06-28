@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -g    CMakeFiles/alarmThread.dir/alarmThread.cpp.o  -o alarmThread -rdynamic -lglut -lGL -lGLU -lGLEW -lpthread -lcairo -lX11 
